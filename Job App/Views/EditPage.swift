@@ -1,9 +1,3 @@
-//
-//  EditPage.swift
-//  Job App
-//
-//  Created by Pasha Panin on 11/28/21.
-//
 
 import SwiftUI
 import FirebaseAuth
