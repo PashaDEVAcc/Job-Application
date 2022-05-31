@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  Chat App
-//
-//  Created by Pasha Panin on 10/31/21.
-//
 
 import SwiftUI
 
